@@ -88,7 +88,7 @@ const AddContact = () => {
                   <span className="ml-4 label-text text-lg">Active</span>
                 </div>
               </div>
-              <div class="w-full md:w-1/2 px-3 mt-4">
+              <div class="w-full md:w-1/2 px-3 xs:mt-4 md:mt-0">
                 <div className="bg-[#E5E7EB] py-2 px-4 rounded-lg">
                   <input
                     type="radio"
